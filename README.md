@@ -3,7 +3,7 @@
   <img align="left" alt="Celil Öz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.celil.dev">
-  <img align="left" alt="My Website" width="22px" src="" />
+  <img align="left" alt="" width="22px" src="" />
 </a>
 <a href="https://www.linkedin.com/in/celil-%C3%B6z-4b3815228/">
   <img align="left" alt="Celil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
