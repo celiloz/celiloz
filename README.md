@@ -6,7 +6,7 @@
   <img align="left" alt="" width="22px" src="https://celil.dev/images/favicon/favicon.ico" />
 </a>
 <a href="https://www.linkedin.com/in/celil-%C3%B6z-4b3815228/">
-  <img align="left" alt="Celil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Celil's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
 
