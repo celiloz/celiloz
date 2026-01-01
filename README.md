@@ -1,90 +1,74 @@
+<div align="center">
+
 # Hi there, I'm Celil Öz 👋
 
-<div align="center">
-  
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=celiloz.celiloz)](https://github.com/celiloz)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/celilz1)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi@celil.dev)
+[![Email](https://img.shields.io/badge/Email-hi%40celil.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@celil.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/celilz1)
+
+<br/>
+
+### 🍎 iOS Developer & Software Craftsman
+
+I'm a passionate **iOS Developer** dedicated to building polished, performant, and user-centric mobile applications. I focus on writing clean, maintainable Swift code and creating seamless user experiences.
+
+<br/>
 
 </div>
 
 ## 🚀 About Me
 
-I'm a **passionate self-taught mobile developer** and **freelance software developer** with a love for turning ideas into elegant, functional applications. 
+- 📱 Specializing in **Native iOS Development** with **Swift** & **SwiftUI**.
+- 🏗️ Deeply focused on **Clean Architecture**, **MVVM**, and **Code Quality**.
+- 🎨 Bridging the gap between design and functionality.
+- 🌱 Currently exploring: **SwiftData** and **Advanced Animations**.
+- 💬 Ask me about **iOS, Swift, or Mobile Architecture**.
 
-- 🔭 I specialize in creating beautiful mobile experiences with clean architecture
-- 💡 I take great care in the **experience, architecture, and code quality** of everything I build
-- 🌱 Always learning and exploring new technologies
-- 💬 Ask me about anything - I'm happy to help!
-- 📫 Available for freelance work - [reach out via email](mailto:your-email@gmail.com)
+---
 
 ## 🛠️ Tech Stack
 
-### Mobile Development
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+<div align="center">
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+| Core | UI Frameworks | Tools & Architecture |
+| :---: | :---: | :---: |
+| ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue) | ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white) |
+| ![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| | | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+</div>
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=celiloz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiloz&layout=compact&langs_count=8&theme=radical"/>
-
+  <a href="https://github.com/celiloz">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=celiloz&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiloz&layout=compact&langs_count=6&theme=catppuccin_latte&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=celiloz&theme=radical)](https://github.com/celiloz)
-
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celiloz&theme=catppuccin_latte&hide_border=true" alt="Streak" />
 </div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=celiloz&theme=radical&column=6&margin-w=10&margin-h=10)](https://github.com/celiloz)
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=celiloz&theme=react-dark)](https://github.com/celiloz)
-
-</div>
-
-## 💼 Services I Offer
-
-- 📱 **Mobile App Development** - Native and cross-platform applications
-- 🎨 **UI/UX Design** - Creating intuitive and beautiful user interfaces
-- 🔧 **Code Review & Consultation** - Improving code quality and architecture
-- 🚀 **MVP Development** - Rapid prototyping and product development
-
-## 📫 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 **Freelance Work**: [Send me an email](mailto:your-email@gmail.com)
-- 💬 **General Questions**: Feel free to reach out, I'm happy to help
-- 🤝 **Collaboration**: Open to working on exciting projects
 
 ---
 
-<div align="center">
-  
-**"Great software is not just about code - it's about solving real problems with elegant solutions."**
+## 💼 Services
 
-⭐️ From [Celil Öz](https://github.com/celiloz) - Building the future, one app at a time.
+| 📱 **App Development** | 🎨 **Consultation** |
+| :--- | :--- |
+| Building high-quality native iOS apps using Swift and SwiftUI/UIKit. Focus on performance and user experience. | Code review, architecture planning, and helping turn concepts into technical roadmaps. |
+
+<br/>
+
+<div align="center">
+
+**"Simplicity is the ultimate sophistication."**
+
+[Get in touch](mailto:hi@celil.dev) to discuss your next project.
 
 </div>
