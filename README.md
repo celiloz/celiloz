@@ -21,4 +21,4 @@ I'm a passionate **iOS Developer**. My passion lies in dreaming up ideas and mak
 
 ### My GitHub Stats
 
-![Celil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=celiloz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+![Celil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=celiloz&show_icons=true&theme=radical&hide_border=true)
