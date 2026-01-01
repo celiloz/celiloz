@@ -7,7 +7,7 @@
 
 <br/>
 
-I'm a passionate **iOS Developer** and **Software Craftsman**. My passion lies in dreaming up ideas and making them come true with elegant, native interfaces. I take great care in the **experience, architecture, and code quality** of the things I build.
+I'm a passionate **iOS Developer**. My passion lies in dreaming up ideas and making them come true with elegant, native interfaces. I take great care in the **experience, architecture, and code quality** of the things I build.
 
 - 🔭 I specialize in **Swift** & **SwiftUI**
 - 💼 Open for freelance work? Do reach out via [email](mailto:hi@celil.dev) :)
