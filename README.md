@@ -1,37 +1,24 @@
-<div align="center">
+# Hey there 👋 I'm Celil Öz
 
-# Celil Öz
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/celilz1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hi@celil.dev)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=celiloz.celiloz)
 
-**iOS Developer**
+<br/>
 
-*Turning ideas into elegant, native iOS experiences.*
+I'm a passionate **iOS Developer** and **Software Craftsman**. My passion lies in dreaming up ideas and making them come true with elegant, native interfaces. I take great care in the **experience, architecture, and code quality** of the things I build.
+
+- 🔭 I specialize in **Swift** & **SwiftUI**
+- 💼 Open for freelance work? Do reach out via [email](mailto:hi@celil.dev) :)
+- 💬 Ask me about anything, I am happy to help!
+
+### Languages and Tools
+
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue" height="30" /> <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" />
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/celilz1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi@celil.dev)
+### My GitHub Stats
 
-<br/>
-<br/>
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=blue)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<br/>
-<br/>
-
-<a href="https://github.com/celiloz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=celiloz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=007ACC&text_color=808080&icon_color=007ACC"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celiloz&layout=compact&langs_count=4&theme=transparent&hide_border=true&title_color=007ACC&text_color=808080"/>
-</a>
-
-<br/>
-<br/>
-
-[📫 Contact Me](mailto:hi@celil.dev)
-
-</div>
+![Celil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=celiloz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
